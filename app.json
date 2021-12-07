@@ -1,8 +1,8 @@
 {
-  "name": "vmess or vles",
-  "description": "vmess or vles",
+  "name": "tes786451207",
+  "description": "tes786451207",
   "keywords": [
-    "vmess or vles"
+    "tes786451207"
   ],
   "env": {
     "PROTOCOL": {
@@ -22,8 +22,8 @@
     }
    
   },
-  "website": "https://github.com/louyour/nginx-Manual",
-  "repository": "https://github.com/louyour/nginx-Manual",
+  "website": "https://github.com/bluertds/tes786451207",
+  "repository": "https://github.com/bluertds/tes786451207",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
